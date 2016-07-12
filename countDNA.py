@@ -20,3 +20,5 @@ def countDNA():
     print a, c, g, t
 
 countDNA()
+
+print "hello werld"
