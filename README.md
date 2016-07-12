@@ -1,1 +1,5 @@
-# FMI_learns_git
+public static main()
+
+while(true):
+system.out.print("Shrek is love. Shrek is life")
+
