@@ -20,3 +20,4 @@ def countDNA():
     print a, c, g, t
 
 countDNA()
+print "Rosalind is tight"
