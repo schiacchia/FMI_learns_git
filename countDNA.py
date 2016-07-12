@@ -14,8 +14,6 @@ def countDNA():
                 c += 1
             elif letter == "T":
                 t += 1
-            else:
-                print "invalid DNA string"
     f.close()
     print a, c, g, t
 
